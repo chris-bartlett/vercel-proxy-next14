@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/my-test-route/123",
-      "destination": "https://vercel-proxy-next15.vercel.app//my-test-route/123"
+      "destination": "https://vercel-proxy-next15.vercel.app/my-test-route/123"
     }
   ]
 }

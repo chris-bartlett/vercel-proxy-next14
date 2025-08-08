@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/my-test-route/123",
+      "destination": "https://REPLACE_WITH_SECOND_PROJECT_URL/my-test-route/123"
+    }
+  ]
+}

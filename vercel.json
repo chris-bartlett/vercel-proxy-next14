@@ -5,11 +5,11 @@
       "destination": "https://vercel-proxy-next15.vercel.app/my-test-route/:slug"
     },
     {
-      "source": "/my-test-route/_next/:path*",
+      "source": "/_next/:path*",
       "destination": "https://vercel-proxy-next15.vercel.app/_next/:path*"
     },
     {
-      "source": "/my-test-route/static/:path*",
+      "source": "/static/:path*",
       "destination": "https://vercel-proxy-next15.vercel.app/static/:path*"
     }
   ]
